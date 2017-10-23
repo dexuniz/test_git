@@ -5,5 +5,5 @@ int main(){
 	return 0；
 }
 
-//change it one no!!!
+// it one no!!!
 //change it at my pc !!!
